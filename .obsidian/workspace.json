@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 3 - Programação orientada a objetos/1. Noções básicas de programação orientada a objetos..md",
+                "file": "Módulo 3 - Programação orientada a objetos/2. Conceitos avançados em POO..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Noções básicas de programação orientada a objetos."
+              "title": "2. Conceitos avançados em POO."
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "modificador",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,16 +200,17 @@
   },
   "active": "c47d06ffd60fd370",
   "lastOpenFiles": [
-    "Módulo 2 - Java Programming for Beginners/Introdução a Java/1. Introdução ao ambiente Java..md",
+    "Módulo 2 - Java Programming for Beginners/Introdução a Java/2. Blocos de construção Java..md",
+    "Módulo 3 - Programação orientada a objetos/2. Conceitos avançados em POO..md",
     "Módulo 3 - Programação orientada a objetos/1. Noções básicas de programação orientada a objetos..md",
-    "Módulo 2 - Java Programming for Beginners/Introdução a Java/5. Projeto final simulando compras em um mercado..md",
-    "Módulo 3 - Programação orientada a objetos",
+    "Módulo 2 - Java Programming for Beginners/Introdução a Java/1. Introdução ao ambiente Java..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/4. Tratamento robusto de exceções..md",
+    "Módulo 2 - Java Programming for Beginners/Introdução a Java/5. Projeto final simulando compras em um mercado..md",
+    "Módulo 2 - Java Programming for Beginners/Introdução a Java/3. Estruturas de controle e manipulação de strings..md",
+    "Módulo 3 - Programação orientada a objetos",
     "Módulo 2 - Java Programming for Beginners/Projeto Final Módulo - 2/CarrinhoDeCompras.java",
     "Módulo 2 - Java Programming for Beginners/Projeto Final Módulo - 2",
     "Nova pasta",
-    "Módulo 2 - Java Programming for Beginners/Introdução a Java/3. Estruturas de controle e manipulação de strings..md",
-    "Módulo 2 - Java Programming for Beginners/Introdução a Java/2. Blocos de construção Java..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/Sem título",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/2. Introdução ao desenvolvimento de software..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/1. Ciclo de vida do desenvolvimento de software..md",
