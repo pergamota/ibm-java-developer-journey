@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 3 - Programação orientada a objetos/5. Tratamento de data e hora em Java..md",
+                "file": "Módulo 3 - Programação orientada a objetos/3. Trabalhando com coleções em Java..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Tratamento de data e hora em Java."
+              "title": "3. Trabalhando com coleções em Java."
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hashma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,19 +199,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "65acf0629264bc51",
+  "active": "5f59a8feb06f1f89",
   "lastOpenFiles": [
-    "Módulo 3 - Programação orientada a objetos/4. Gerenciamento de arquivos e diretórios java..md",
-    "Módulo 3 - Programação orientada a objetos/5. Tratamento de data e hora em Java..md",
-    "Módulo 3 - Programação orientada a objetos/3. Trabalhando com coleções em Java..md",
-    "5. Tratamento de data e hora em java..md",
-    "Módulo 3 - Programação orientada a objetos/2. Conceitos avançados em POO..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/2. Blocos de construção Java..md",
-    "Módulo 3 - Programação orientada a objetos/1. Noções básicas de programação orientada a objetos..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/1. Introdução ao ambiente Java..md",
+    "Módulo 3 - Programação orientada a objetos/3. Trabalhando com coleções em Java..md",
+    "Módulo 3 - Programação orientada a objetos/5. Tratamento de data e hora em Java..md",
+    "Módulo 3 - Programação orientada a objetos/4. Gerenciamento de arquivos e diretórios java..md",
+    "Módulo 3 - Programação orientada a objetos/1. Noções básicas de programação orientada a objetos..md",
+    "Módulo 3 - Programação orientada a objetos/2. Conceitos avançados em POO..md",
+    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/4. Arquitetura, design e padrões de software..md",
+    "Módulo 2 - Java Programming for Beginners/Introdução a Java/3. Estruturas de controle e manipulação de strings..md",
+    "5. Tratamento de data e hora em java..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/4. Tratamento robusto de exceções..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/5. Projeto final simulando compras em um mercado..md",
-    "Módulo 2 - Java Programming for Beginners/Introdução a Java/3. Estruturas de controle e manipulação de strings..md",
     "Módulo 3 - Programação orientada a objetos",
     "Módulo 2 - Java Programming for Beginners/Projeto Final Módulo - 2/CarrinhoDeCompras.java",
     "Módulo 2 - Java Programming for Beginners/Projeto Final Módulo - 2",
@@ -220,7 +222,6 @@
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/1. Ciclo de vida do desenvolvimento de software..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/3. Noções básicas de programação..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/5. Oportunidades de trabalho e habilidades..md",
-    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/4. Arquitetura, design e padrões de software..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/Sem título",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software",
     "Módulo 2 - Java Programming for Beginners/Introdução ao Java.md",
