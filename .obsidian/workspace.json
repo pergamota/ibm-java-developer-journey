@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 2 - Java Programming for Beginners/Introdução a Java/2. Blocos de construção Java..md",
+                "file": "Módulo 5 - HTML, CSS e JavaScript/1. Visão geral do HTML..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Blocos de construção Java."
-            }
-          },
-          {
-            "id": "65acf0629264bc51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Módulo 3 - Programação orientada a objetos/5. Tratamento de data e hora em Java..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Tratamento de data e hora em Java."
+              "title": "1. Visão geral do HTML."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "localdatetime",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,20 +183,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "65acf0629264bc51",
+  "active": "b8edc669282bc1a1",
   "lastOpenFiles": [
+    "Módulo 5 - HTML, CSS e JavaScript/2. Visão geral do CSS e elementos HTML5..md",
+    "Módulo 5 - HTML, CSS e JavaScript/1. Visão geral do HTML..md",
+    "Módulo 3 - Programação orientada a objetos/5. Tratamento de data e hora em Java..md",
+    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/4. Arquitetura, design e padrões de software..md",
+    "Módulo 2 - Java Programming for Beginners/Introdução a Java/2. Blocos de construção Java..md",
+    "Módulo 5 - HTML, CSS e JavaScript",
     "Projeto Pet/PetCareScheduler.java",
     "Projeto Pet/Pet.java",
     "Projeto Pet/Appointment.java",
     "Projeto Pet",
     "Módulo 3 - Programação orientada a objetos/3. Trabalhando com coleções em Java..md",
-    "Módulo 2 - Java Programming for Beginners/Introdução a Java/2. Blocos de construção Java..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/1. Introdução ao ambiente Java..md",
-    "Módulo 3 - Programação orientada a objetos/5. Tratamento de data e hora em Java..md",
     "Módulo 3 - Programação orientada a objetos/4. Gerenciamento de arquivos e diretórios java..md",
     "Módulo 3 - Programação orientada a objetos/1. Noções básicas de programação orientada a objetos..md",
     "Módulo 3 - Programação orientada a objetos/2. Conceitos avançados em POO..md",
-    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/4. Arquitetura, design e padrões de software..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/3. Estruturas de controle e manipulação de strings..md",
     "5. Tratamento de data e hora em java..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/4. Tratamento robusto de exceções..md",
@@ -226,8 +213,6 @@
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/1. Ciclo de vida do desenvolvimento de software..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/3. Noções básicas de programação..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/5. Oportunidades de trabalho e habilidades..md",
-    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/Sem título",
-    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software",
     "Módulo 2 - Java Programming for Beginners/Introdução ao Java.md",
     "Sem título.md",
     "Módulo 1 - Java Programming for Beginners/Módulo 1..md"
