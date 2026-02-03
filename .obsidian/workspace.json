@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 5 - HTML, CSS e JavaScript/1. Visão geral do HTML..md",
+                "file": "Módulo 5 - HTML, CSS e JavaScript/2. Visão geral do CSS e elementos HTML5..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Visão geral do HTML."
+              "title": "2. Visão geral do CSS e elementos HTML5."
             }
           }
         ]
@@ -185,15 +185,16 @@
   },
   "active": "b8edc669282bc1a1",
   "lastOpenFiles": [
+    "Módulo 5 - HTML, CSS e JavaScript/1. Visão geral do HTML..md",
+    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/2. Introdução ao desenvolvimento de software..md",
+    "Módulo 5 - HTML, CSS e JavaScript/2. Visão geral do CSS e elementos HTML5..md",
+    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/4. Arquitetura, design e padrões de software..md",
+    "Módulo 3 - Programação orientada a objetos/5. Tratamento de data e hora em Java..md",
     "ProjetoBiblioteca/SystemBiblioteca.java",
     "ProjetoBiblioteca/Main.java",
     "ProjetoBiblioteca/Livro.java",
     "ProjetoBiblioteca/Emprestimo.java",
     "ProjetoBiblioteca",
-    "Módulo 5 - HTML, CSS e JavaScript/2. Visão geral do CSS e elementos HTML5..md",
-    "Módulo 5 - HTML, CSS e JavaScript/1. Visão geral do HTML..md",
-    "Módulo 3 - Programação orientada a objetos/5. Tratamento de data e hora em Java..md",
-    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/4. Arquitetura, design e padrões de software..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/2. Blocos de construção Java..md",
     "Módulo 5 - HTML, CSS e JavaScript",
     "Projeto Pet/PetCareScheduler.java",
@@ -209,8 +210,6 @@
     "5. Tratamento de data e hora em java..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/4. Tratamento robusto de exceções..md",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/5. Projeto final simulando compras em um mercado..md",
-    "Módulo 3 - Programação orientada a objetos",
-    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/2. Introdução ao desenvolvimento de software..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/1. Ciclo de vida do desenvolvimento de software..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/3. Noções básicas de programação..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/5. Oportunidades de trabalho e habilidades..md",
