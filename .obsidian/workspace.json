@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modulo 7 - Introduçaõ do Git e GitHub/1. Fundamentos do Git e GitHub..md",
+                "file": "Modulo 7 - Introduçaõ do Git e GitHub/2. Comandos do Git e gerenciamento de projetos do GitHub..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Fundamentos do Git e GitHub."
+              "title": "2. Comandos do Git e gerenciamento de projetos do GitHub."
             }
           }
         ],
@@ -200,8 +200,9 @@
   },
   "active": "c35c0caf1ff12d95",
   "lastOpenFiles": [
-    "Untitled.md",
     "Modulo 7 - Introduçaõ do Git e GitHub/1. Fundamentos do Git e GitHub..md",
+    "Modulo 7 - Introduçaõ do Git e GitHub/2. Comandos do Git e gerenciamento de projetos do GitHub..md",
+    "Untitled.md",
     "Modulo 7 - Introduçaõ do Git e GitHub",
     "Módulo 5 - HTML, CSS e JavaScript/3. Introdução ao JavaScript e ao ES6..md",
     "{139CC4B9-C89E-4DB2-A07B-409C50A6AADF}.png",
