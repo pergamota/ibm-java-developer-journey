@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 8 - Spring Framework/1. Introdução Spring Framework..md",
+                "file": "Módulo 8 - Spring Framework/2. Spring Boot..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introdução Spring Framework."
+              "title": "2. Spring Boot."
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -53,15 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@respon",
+                "query": "controle de versão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -175,19 +175,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "9660cfe7fe0433f3",
+  "active": "5f59a8feb06f1f89",
   "lastOpenFiles": [
-    "Módulo 2 - Java Programming for Beginners/Introdução a Java/1. Introdução ao ambiente Java..md",
     "Módulo 8 - Spring Framework/1. Introdução Spring Framework..md",
+    "Módulo 8 - Spring Framework/2. Spring Boot..md",
+    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/4. Arquitetura, design e padrões de software..md",
+    "Módulo 2 - Java Programming for Beginners/Introdução a Java/1. Introdução ao ambiente Java..md",
     "Untitled.base",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/1. Ciclo de vida do desenvolvimento de software..md",
     "Módulo 8 - Spring Framework",
@@ -205,7 +207,6 @@
     "Módulo 3 - Programação orientada a objetos/2. Conceitos avançados em POO..md",
     "Módulo 5 - HTML, CSS e JavaScript/1. Visão geral do HTML..md",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/2. Introdução ao desenvolvimento de software..md",
-    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/4. Arquitetura, design e padrões de software..md",
     "Módulo 3 - Programação orientada a objetos/5. Tratamento de data e hora em Java..md",
     "ProjetoBiblioteca/SystemBiblioteca.java",
     "ProjetoBiblioteca/Main.java",
