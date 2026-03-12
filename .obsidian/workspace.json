@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 8 - Java com Banco de dados/2. Spring Boot para aplicativos de banco de dados..md",
+                "file": "Módulo 8 - Java com Banco de dados/3. Hibernate e outros bancos de dados..md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Spring Boot para aplicativos de banco de dados."
+              "title": "3. Hibernate e outros bancos de dados."
             }
           }
         ]
@@ -54,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo 2 - Java Programming for Beginners/Introdução a Java/1. Introdução ao ambiente Java.md",
+                "file": "Módulo 8 - Java com Banco de dados/3. Hibernate e outros bancos de dados..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para 1. Introdução ao ambiente Java"
+              "title": "Links inversos para 3. Hibernate e outros bancos de dados."
             }
           },
           {
@@ -185,10 +185,12 @@
   },
   "active": "9660cfe7fe0433f3",
   "lastOpenFiles": [
-    "Módulo 8 - Java com Banco de dados/1. Fundamentos de banco de dados e JDBC..md",
-    "Módulo 3 - Programação orientada a objetos/1. Noções básicas de programação orientada a objetos..md",
-    "Módulo 7 - Spring Framework/1. Introdução Spring Framework..md",
     "Módulo 8 - Java com Banco de dados/2. Spring Boot para aplicativos de banco de dados..md",
+    "Módulo 8 - Java com Banco de dados/3. Hibernate e outros bancos de dados..md",
+    "Módulo 3 - Programação orientada a objetos/1. Noções básicas de programação orientada a objetos..md",
+    "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/3. Noções básicas de programação..md",
+    "Módulo 8 - Java com Banco de dados/1. Fundamentos de banco de dados e JDBC..md",
+    "Módulo 7 - Spring Framework/1. Introdução Spring Framework..md",
     "Módulo 8 - Java com Banco de dados/AAA.md",
     "Módulo 7 - Spring Framework/2. Spring Boot..md",
     "Módulo 7 - Spring Framework/3. Spring MVC e a segurança..md",
@@ -219,8 +221,6 @@
     "ProjetoBiblioteca/Emprestimo.java",
     "ProjetoBiblioteca",
     "Módulo 2 - Java Programming for Beginners/Introdução a Java/2. Blocos de construção Java..md",
-    "Módulo 3 - Programação orientada a objetos/3. Trabalhando com coleções em Java..md",
-    "Módulo 3 - Programação orientada a objetos/4. Gerenciamento de arquivos e diretórios java..md",
-    "Módulo 2 - Java Programming for Beginners/Introdução a Java/3. Estruturas de controle e manipulação de strings..md"
+    "Módulo 3 - Programação orientada a objetos/3. Trabalhando com coleções em Java..md"
   ]
 }
