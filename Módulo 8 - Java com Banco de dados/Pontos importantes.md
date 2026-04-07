@@ -96,15 +96,20 @@
 * Usado junto com `@Query` quando a consulta **altera dados** — update, delete, insert
   
   
-# O que é JPA
+# **O que é JPA**
 
 * Ele é um tradutor, ele pega o código Java e transforma em tabelas para o banco de dados entender.
    
-# O que é JSON
+# **O que é JSON**
 
 * Ele pega um código java e converte em texto porque assim o back-end e o front-end podem conversar.
   
 
-# O que são endpoints:
+# **O que são endpoints:**
 
 * É um URL + uma requisição, por exemplo: GET/produtos.
+  
+  
+# **O que são beans:**
+
+* É um objeto em java que o spring cuida pra você, por exemplo, quando você aplica uma anotação em uma classe, você deixa claro para o spring que aquele objeto é importante, então você não precisa criar toda vez um objeto, ele é criado automaticamente.
