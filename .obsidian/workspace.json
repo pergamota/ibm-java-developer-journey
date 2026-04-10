@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/1. Aplicativos nativos na nuvem..md",
+                "file": "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/2. Domínio dos microsserviços com REST API Gateways..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Aplicativos nativos na nuvem."
+              "title": "2. Domínio dos microsserviços com REST API Gateways."
             }
           }
         ]
@@ -183,10 +183,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9660cfe7fe0433f3",
+  "active": "c47d06ffd60fd370",
   "lastOpenFiles": [
-    "Sem título.md",
     "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/1. Aplicativos nativos na nuvem..md",
+    "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/2. Domínio dos microsserviços com REST API Gateways..md",
+    "Sem título.md",
     "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile",
     "Módulo 8 - Java com Banco de dados/Pontos importantes.md",
     "Módulo 8 - Java com Banco de dados/3. Hibernate e outros bancos de dados..md",
@@ -220,7 +221,6 @@
     "Untitled.md",
     "{139CC4B9-C89E-4DB2-A07B-409C50A6AADF}.png",
     "Módulo 5 - HTML, CSS e JavaScript/2. Visão geral do CSS e elementos HTML5..md",
-    "Módulo 3 - Programação orientada a objetos/2. Conceitos avançados em POO..md",
-    "Módulo 5 - HTML, CSS e JavaScript/1. Visão geral do HTML..md"
+    "Módulo 3 - Programação orientada a objetos/2. Conceitos avançados em POO..md"
   ]
 }
