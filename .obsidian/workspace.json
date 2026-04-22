@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unidade",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +183,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5f59a8feb06f1f89",
+  "active": "c47d06ffd60fd370",
   "lastOpenFiles": [
     "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/3. Contêiners e conteinerização..md",
     "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/4. DevOps e CI-CD.md",
