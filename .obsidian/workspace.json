@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/4. DevOps e CI-CD.md",
+                "file": "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/5. Agile e Scrum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. DevOps e CI-CD"
+              "title": "5. Agile e Scrum"
             }
           }
         ]
@@ -183,10 +183,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c47d06ffd60fd370",
+  "active": "9660cfe7fe0433f3",
   "lastOpenFiles": [
-    "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/3. Contêiners e conteinerização..md",
     "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/4. DevOps e CI-CD.md",
+    "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/5. Agile e Scrum.md",
+    "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/3. Contêiners e conteinerização..md",
     "Módulo 9 - Nativo da nuvem, microsserviços, contêineres, DevOps e Agile/2. Domínio dos microsserviços com REST API Gateways..md",
     "Módulo 8 - Java com Banco de dados/Pontos importantes.md",
     "Módulo 3 - Programação orientada a objetos/4. Gerenciamento de arquivos e diretórios java..md",
@@ -220,7 +221,6 @@
     "Modulo 7 - Introduçaõ do Git e GitHub/2. Comandos do Git e gerenciamento de projetos do GitHub..md",
     "Modulo 6 - Introdução do Git e GitHub/2. Comandos do Git e gerenciamento de projetos do GitHub..md",
     "Modulo 6 - Introdução do Git e GitHub/1. Fundamentos do Git e GitHub..md",
-    "Modulo 7 - Introduçaõ do Git e GitHub/1. Fundamentos do Git e GitHub..md",
     "{139CC4B9-C89E-4DB2-A07B-409C50A6AADF}.png"
   ]
 }
