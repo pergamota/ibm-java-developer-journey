@@ -98,7 +98,7 @@
   
 # **O que é JPA**
 
-* Ele é um tradutor, ele pega o código Java e transforma em tabelas para o banco de dados entender.
+* Ele é um tradutor, ele pega o código Java e transforma em tabelas para o banco de dados entender. Ele ajuda a estruturar os dados para o banco de dados.
    
 # **O que é JSON**
 
