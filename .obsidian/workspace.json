@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 12 - IA Generativa/1. Noções básicas de IA generativa para desenvolvimento de software..md",
+                "file": "Módulo 12 - IA Generativa/2. Agente de IA e Vibe Coding..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Noções básicas de IA generativa para desenvolvimento de software."
+              "title": "2. Agente de IA e Vibe Coding."
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "9660cfe7fe0433f3",
   "lastOpenFiles": [
-    "Módulo 7 - Spring Framework/1. Introdução Spring Framework..md",
     "Módulo 12 - IA Generativa/1. Noções básicas de IA generativa para desenvolvimento de software..md",
+    "Módulo 12 - IA Generativa/2. Agente de IA e Vibe Coding..md",
+    "Módulo 7 - Spring Framework/1. Introdução Spring Framework..md",
     "Módulo 12 - IA Generativa",
     "Módulo 11 - Projeto de desenvolvimento Java/1. Coleta de requisitos..md",
     "Módulo 7 - Spring Framework/2. Spring Boot..md",
@@ -220,7 +221,6 @@
     "Projeto Java+bancoDeDados/demo/src/main/java/com/example/demo/controller/NoteController.java",
     "Projeto Java+bancoDeDados/demo/target/classes/com/example/demo/service/NoteService.class",
     "Módulo 1 - Engenharia de Software/Introdução a Engenharia de software/3. Noções básicas de programação..md",
-    "Módulo 3 - Programação orientada a objetos/1. Noções básicas de programação orientada a objetos..md",
     "{139CC4B9-C89E-4DB2-A07B-409C50A6AADF}.png"
   ]
 }
